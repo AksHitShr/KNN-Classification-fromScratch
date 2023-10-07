@@ -1,4 +1,4 @@
-### KNN and Decision Trees Implementation from scratch in Python
+### KNN Implementation from scratch in Python and Sklearn Decision Trees
 ### Akshit Sharma
 
 #### KNN Classification Tasks
